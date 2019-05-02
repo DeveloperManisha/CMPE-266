@@ -60,7 +60,7 @@ Average property prices from Highest to lowest
 ![image](https://user-images.githubusercontent.com/32425672/57060044-b7f40080-6c6c-11e9-9cb1-f087f73a6775.png)
 
 Average price in a given neighborhood for all property types:
-![image](https://github.com/DeveloperManisha/CMPE-266/issues/4#issue-439449809)
+![image](https://user-images.githubusercontent.com/32425672/57060074-d659fc00-6c6c-11e9-97e1-ea24a0bf4c56.png)
 
 Prediction of whether prices affect popularity:
 ![image](https://user-images.githubusercontent.com/32425672/57060098-01445000-6c6d-11e9-8cdb-bff27d9c67fa.png)

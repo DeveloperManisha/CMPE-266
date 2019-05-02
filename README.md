@@ -21,7 +21,7 @@ Identify KPIs (Key Performance Indicator) and hidden insights<br>
 
 
 <br>
-Configuration Settings for Quicksight
+Configuration Settings
 
 *First the dataset is stored in S3 bucket, inside a folder called ‘graphs’ named as listings.csv<br>
 *The bucket is made public in order to be accessed from Quicksight.<br>

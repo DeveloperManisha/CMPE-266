@@ -19,3 +19,13 @@ Data security<br>
 Interactive visualizations and dashboard <br>
 Identify KPIs (Key Performance Indicator) and hidden insights<br>
 
+
+
+
+
+
+
+
+
+References:
+https://aws.amazon.com/blogs/machine-learning/detect-sentiment-from-customer-reviews-using-amazon-comprehend/

@@ -12,14 +12,19 @@ Students:
 ### Project Introduction:  
 In this project, we are analyzing AirBnb dataset which describes listing activities of homestays in New York. The idea is to gain insights into the large dataset by finding the price trends in neighbourhood, finding prices according to property type, density of different types of properties in a region, number of reviews for listings. This will help hosts to make the right business decisions. It will help them understand how to maximize profit and increase the business in different neighbourhood areas. Along with it, we also created end to end flow to tackle the negative reviews posted for listings. AirBnb host is informed by email in case there is any negative review posted for his listing. With help of this immediate information, AirBnb host can acknowledge the issue and take necessary steps to prevent further damage.
 
+### Technologies used
+AWS Technologies: S3, Athena, Lambda, Comprehend, Simple Email Service, QuickSight
+
 ### Features list:
-* Big Data Storage Capability<br>
-* Easy and fast access to data <br>
-* Serverless architecture <br>
-* Fast performance<br>
-* Data security<br>
-* Interactive visualizations and dashboard <br>
-* Identify KPIs (Key Performance Indicator) and hidden insights<br>
+Review Sentiment analysis 
+Big Data Storage Capability
+Easy and fast access to data
+Serverless architecture 
+Fast performance (on queries)
+Data security
+Interactive visualizations and dashboard
+Identify hidden insights
+
 
 ### Pre-requisite Setup
 

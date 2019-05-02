@@ -23,9 +23,9 @@ Identify KPIs (Key Performance Indicator) and hidden insights<br>
 <br>
 Pre-requisite Setup
 
-*First the dataset is stored in S3 bucket, inside a folder called ‘graphs’ named as listings.csv<br>
-*The bucket is made public in order to be accessed from Quicksight.<br>
-*Next, a manifest file is added in Quicksight to indicate the bucket which it has to refer to for accessing the dataset for analysis. This manifest file is a json format file as below:<br>
+* First the dataset is stored in S3 bucket, inside a folder called ‘graphs’ named as listings.csv<br>
+* The bucket is made public in order to be accessed from Quicksight.<br>
+* Next, a manifest file is added in Quicksight to indicate the bucket which it has to refer to for accessing the dataset for analysis. This manifest file is a json format file as below:<br>
 
 {
     "fileLocations": [
@@ -39,7 +39,7 @@ Pre-requisite Setup
     ]}
 
 This indicates the URI of the dataset that Quicksight needs to access.<br>
-*Once done, a new analysis is created in Quicksight by choosing corresponding columns and formatting the visuals to obtain the required charts.<br>
+* Once done, a new analysis is created in Quicksight by choosing corresponding columns and formatting the visuals to obtain the required charts.<br>
 
 Config settings for ML module<br>
 * Create S3 bucket sentiment-review-* to upload new review<br>

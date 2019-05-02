@@ -20,7 +20,26 @@ Interactive visualizations and dashboard <br>
 Identify KPIs (Key Performance Indicator) and hidden insights<br>
 
 
+<br>
+Configuration Settings for Quicksight
 
+*First the dataset is stored in S3 bucket, inside a folder called ‘graphs’ named as listings.csv
+*The bucket is made public in order to be accessed from Quicksight.
+*Next, a manifest file is added in Quicksight to indicate the bucket which it has to refer to for accessing the dataset for analysis. This manifest file is a json format file as below:
+
+{
+    "fileLocations": [
+        {
+            "URIs": [
+
+                "https://cmpe266airbnb.s3.amazonaws.com/graphs/listings.csv"
+
+            ]
+        }
+    ]}
+
+This indicates the URI of the dataset that Quicksight needs to access.
+*Once done, a new analysis is created in Quicksight by choosing corresponding columns and formatting the visuals to obtain the required charts.
 
 
 

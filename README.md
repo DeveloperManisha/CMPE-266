@@ -53,7 +53,19 @@ This indicates the URI of the dataset that Quicksight needs to access.<br>
 
 ## Demo Screenshots
 ### Data Analysis and Visualization
-https://user-images.githubusercontent.com/32425672/57059550-bcb7b500-6c6a-11e9-979f-0d8aadcf1cd1.png
+Density of property listings based on neighborhood
+![image](https://user-images.githubusercontent.com/32425672/57059550-bcb7b500-6c6a-11e9-979f-0d8aadcf1cd1.png)
+
+Average property prices from Highest to lowest
+![image](https://user-images.githubusercontent.com/32425672/57060044-b7f40080-6c6c-11e9-9cb1-f087f73a6775.png)
+
+Average price in a given neighborhood for all property types:
+![image](https://github.com/DeveloperManisha/CMPE-266/issues/4#issue-439449809)
+
+Prediction of whether prices affect popularity:
+![image](https://user-images.githubusercontent.com/32425672/57060098-01445000-6c6d-11e9-8cdb-bff27d9c67fa.png)
+Comparison of popularity of properties for major neighbourhood groups
+![image](https://user-images.githubusercontent.com/32425672/57060143-3355b200-6c6d-11e9-8cdc-a5f442b5343f.png)
 
 
 References:

@@ -41,6 +41,11 @@ Pre-requisite Setup
 This indicates the URI of the dataset that Quicksight needs to access.<br>
 *Once done, a new analysis is created in Quicksight by choosing corresponding columns and formatting the visuals to obtain the required charts.<br>
 
+Config settings for ML module<br>
+* Create S3 bucket sentiment-review-* to upload new review<br>
+* Assign IAM role with S3 and Amazon Comprhend to lambda function to run sentiment analysis on review and write output to S3
+* Use Athena to create table to store sentiment analysis result from S3
+* Assign IAM role with Athena,SES and S3 access to lambda function that sends email in case of negative review.
 
 
 

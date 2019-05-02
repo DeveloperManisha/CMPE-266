@@ -50,6 +50,9 @@ Config settings for ML module<br>
 * Assign IAM role with Athena,SES and S3 access to lambda function that sends email in case of negative review.
 
 
+## System Architecture
+![image](https://user-images.githubusercontent.com/32425672/57059439-3ef3a980-6c6a-11e9-81f3-0dd916ddf52c.png)
+
 
 
 

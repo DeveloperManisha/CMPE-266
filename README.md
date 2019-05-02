@@ -8,16 +8,18 @@ Students:
 [Rakhee Singh](https://www.linkedin.com/in/rakhee-singh-51186954/)  
 [Radhika Srinivasan](https://www.linkedin.com/in/radhikas08/)   
 [Arshiya Pathan](https://www.linkedin.com/in/arshiya-pathan/)  
+<br>
 Project Introduction:  
 In this project, we are analyzing AirBnb dataset which describes listing activities of homestays in New York. The idea is to gain insights into the large dataset by finding the price trends over a period, finding busiest times of the year analyzing reviews and neighborhood listings. This will help hosts to make the right business decisions. It will help them understand how to maximize profit and increase the occupancy rate.   
+<br>
 Features list: <br>
-Big Data Storage Capability<br>
-Easy and fast access to data <br>
-Serverless architecture <br>
-Fast performance<br>
-Data security<br>
-Interactive visualizations and dashboard <br>
-Identify KPIs (Key Performance Indicator) and hidden insights<br>
+* Big Data Storage Capability<br>
+* Easy and fast access to data <br>
+* Serverless architecture <br>
+* Fast performance<br>
+* Data security<br>
+* Interactive visualizations and dashboard <br>
+* Identify KPIs (Key Performance Indicator) and hidden insights<br>
 
 
 <br>

@@ -12,7 +12,6 @@ Students:
 ### Project Introduction:  
 In this project, we are analyzing AirBnb dataset which describes listing activities of homestays in New York. The idea is to gain insights into the large dataset by finding the price trends in neighbourhood, finding prices according to property type, density of different types of properties in a region, number of reviews for listings. This will help hosts to make the right business decisions. It will help them understand how to maximize profit and increase the business in different neighbourhood areas. Along with it, we also created end to end flow to tackle the negative reviews posted for listings. AirBnb host is informed by email in case there is any negative review posted for his listing. With help of this immediate information, AirBnb host can acknowledge the issue and take necessary steps to prevent further damage.
 
-<br>
 ### Features list:
 * Big Data Storage Capability<br>
 * Easy and fast access to data <br>
@@ -22,8 +21,6 @@ In this project, we are analyzing AirBnb dataset which describes listing activit
 * Interactive visualizations and dashboard <br>
 * Identify KPIs (Key Performance Indicator) and hidden insights<br>
 
-
-<br>
 ### Pre-requisite Setup
 
 * First the dataset is stored in S3 bucket, inside a folder called ‘graphs’ named as listings.csv<br>
@@ -42,7 +39,7 @@ In this project, we are analyzing AirBnb dataset which describes listing activit
     ]}
 
 This indicates the URI of the dataset that Quicksight needs to access.<br>
-* Once done, a new analysis is created in Quicksight by choosing corresponding columns and formatting the visuals to obtain the required charts.<br>
+* Once done, a new analysis is created in Quicksight by choosing corresponding columns and formatting the visuals to obtain the required charts.
 
 ### Config settings for ML module
 * Create S3 bucket sentiment-review-* to upload new review<br>
